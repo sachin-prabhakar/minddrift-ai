@@ -1,18 +1,18 @@
-# MindDrift AI 🚀
+# MindDrift AI 
 
 **Collaborative Sci-Fi Story Writer**
 
 MindDrift AI is an interactive Streamlit application that enables collaborative storytelling between humans and AI. Create captivating science fiction stories with customizable parameters for imagination, tone, surrealism, and emotional depth.
 
 
-## ✨ Features
+##  Features
 
 - **Collaborative Writing**: Alternate between AI-generated and human-written story parts
 - **Customizable Parameters**: Fine-tune story generation with multiple sliders:
-  - 🎨 **Imagination Level**: From realistic to hallucinatory
-  - 🌙 **Tone**: From bright to nightmarish
-  - 🌀 **Surrealism**: From grounded to unreal
-  - 💫 **Emotional Charge**: From cold to gut-wrenching
+  -  **Imagination Level**: From realistic to hallucinatory
+  -  **Tone**: From bright to nightmarish
+  -  **Surrealism**: From grounded to unreal
+  -  **Emotional Charge**: From cold to gut-wrenching
   - ⚡ **Pace**: From introspective to relentless
   - 🔍 **Clarity**: Simple to complex language
 - **Story Devices**: AI uses different narrative techniques for each part
@@ -20,7 +20,7 @@ MindDrift AI is an interactive Streamlit application that enables collaborative 
 - **Export Options**: Download your stories as PDF or TXT files
 - **Real-time Collaboration**: See your story develop part by part
 
-## 🛠️ Installation
+##  Installation
 
 ### Prerequisites
 
@@ -61,7 +61,7 @@ MindDrift AI is an interactive Streamlit application that enables collaborative 
    
    The app will automatically open at `http://localhost:8501`
 
-## 🚀 Usage
+## Usage
 
 ### Getting Started
 
@@ -136,7 +136,7 @@ minddrift-ai/
 └── README.md           # This file
 ```
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -148,14 +148,14 @@ minddrift-ai/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ⚠️ Important Notes
+##  Important Notes
 
 - You need a valid OpenAI API key to use this application
 - API usage will incur costs based on OpenAI's pricing
 - Keep your API key secure and never commit it to version control
 - The app uses GPT-3.5-turbo for cost efficiency while maintaining quality
 
-## 🆘 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -171,7 +171,7 @@ If you encounter issues:
 3. Ensure all dependencies are correctly installed
 4. Open an issue on GitHub with error details
 
-## 🌟 Acknowledgments
+## Acknowledgments
 
 - Built with [Streamlit](https://streamlit.io/)
 - Powered by [OpenAI](https://openai.com/)
